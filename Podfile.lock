@@ -1,0 +1,12 @@
+PODS:
+  - MaterialComponents/PageControl (23.2.0)
+
+DEPENDENCIES:
+  - MaterialComponents/PageControl
+
+SPEC CHECKSUMS:
+  MaterialComponents: 42e94262fa87a7ecadd3452ea09910c1254dc55a
+
+PODFILE CHECKSUM: 40b7786d0e728758ef9ef59be17876028fa15f03
+
+COCOAPODS: 1.2.0
